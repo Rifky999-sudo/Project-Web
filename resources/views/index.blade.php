@@ -111,9 +111,9 @@
             <img src="/assets/img/about-img.svg" class="img-fluid" alt="" data-aos="zoom-in">
           </div>
           <div class="col-lg-6 pt-5 pt-lg-0">
-            <h3 data-aos="fade-up">Voluptatem dignissimos provident quasi</h3>
+            <h3 data-aos="fade-up">Apa itu LiveIn?</h3>
             <p data-aos="fade-up" data-aos-delay="100">
-              Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Duis aute irure dolor in reprehenderit
+            LiveIn adalah sebuah website informasi yang memiliki tujuan untuk menyebarkan informasi jadwal livestreaming, seminar, workshop, training, dan lain lain. Dengan adanya LiveIn pengunjung bisa mendapatkan informasi tentang jadwal-jadwal dengan terperinci
             </p>
             <div class="row">
               <div class="col-md-6" data-aos="fade-up" data-aos-delay="100">
@@ -157,12 +157,12 @@
           <div class="col-md-6 col-lg-3 align-items-stretch portfolio-item filter-app">
           <a href="portfolio-details" class="link-detail">
             <div class="icon-box">
-            <img src="/assets/img/portfolio/portfolio-1.jpg" class="img-fluid" alt="">
-              <h4 class="title">International Youth Conference 6.0</h4>
+            <img src="/assets/img/portfolio/zoomMLBB.jpeg" class="img-fluid" alt="">
+              <h4 class="title">ZOOM MLBB TOURNAMENT</h4>
               <p class="description">
-                <i class="bi bi-bookmark-fill"> Seminar</i><br>
-                <i class="bi bi-stopwatch"> 01 Jun 2021 - 07 Jul 2021</i><br>
-                <i class="bi bi-geo-alt-fill"> Zoom</i>
+                <i class="bi bi-bookmark-fill"> Gaming</i><br>
+                <i class="bi bi-stopwatch"> 24 - 27 Juni 2021</i><br>
+                <i class="bi bi-geo-alt-fill">NIMO TV</i>
               </p>
             </div>
           </a>
@@ -171,12 +171,12 @@
           <div class="col-md-6 col-lg-3 align-items-stretch portfolio-item filter-web">
           <a href="portfolio-details" class="link-detail">
             <div class="icon-box">
-            <img src="/assets/img/portfolio/portfolio-2.jpg" class="img-fluid" alt="">
-              <h4 class="title">BATTLEGROUND MOBILE</h4>
+            <img src="/assets/img/portfolio/demam.png" class="img-fluid" alt="">
+              <h4 class="title">Mencegah demam tifoid dengan Vaksinasi</h4>
               <p class="description">
-                <i class="bi bi-bookmark-fill"> Gaming</i><br>
-                <i class="bi bi-stopwatch"> 01 Jun 2021 - 07 Jul 2021</i><br>
-                <i class="bi bi-geo-alt-fill"> Youtube</i>
+                <i class="bi bi-bookmark-fill"> Kesehatan</i><br>
+                <i class="bi bi-stopwatch">4 Juni 2021</i><br>
+                <i class="bi bi-geo-alt-fill"> Zoom</i>
               </p>
             </div>
           </a>
@@ -185,12 +185,12 @@
           <div class="col-md-6 col-lg-3 align-items-stretch portfolio-item filter-card">
           <a href="portfolio-details" class="link-detail">
             <div class="icon-box">
-            <img src="/assets/img/portfolio/portfolio-3.jpg" class="img-fluid" alt="">
-              <h4 class="title">Tips Jitu Cegah Virus Corona</h4>
+            <img src="/assets/img/portfolio/viva.jpeg" class="img-fluid" alt="">
+              <h4 class="title">Viva E-SPORT TOURNAMENT</h4>
               <p class="description">
-                <i class="bi bi-bookmark-fill"> Kesehatan</i><br>
-                <i class="bi bi-stopwatch"> 01 Jun 2021 - 07 Jul 2021</i><br>
-                <i class="bi bi-geo-alt-fill"> Google Meet</i>
+                <i class="bi bi-bookmark-fill">Gaming</i><br>
+                <i class="bi bi-stopwatch"> 19 Juni 2021</i><br>
+                <i class="bi bi-geo-alt-fill">YouTube</i>
               </p>
             </div>
           </a>
@@ -436,7 +436,7 @@
         <ul class="faq-list" data-aos="fade-up" data-aos-delay="100">
 
           <li>
-            <div data-bs-toggle="collapse" class="collapsed question" href="#faq1">Non consectetur a erat nam at lectus urna duis? <i class="bi bi-chevron-down icon-show"></i><i class="bi bi-chevron-up icon-close"></i></div>
+            <div data-bs-toggle="collapse" class="collapsed question" href="#faq1">Bagaimana cara membuat akun di LiveIn? <i class="bi bi-chevron-down icon-show"></i><i class="bi bi-chevron-up icon-close"></i></div>
             <div id="faq1" class="collapse" data-bs-parent=".faq-list">
               <p>
                 Feugiat pretium nibh ipsum consequat. Tempus iaculis urna id volutpat lacus laoreet non curabitur gravida. Venenatis lectus magna fringilla urna porttitor rhoncus dolor purus non.
@@ -445,7 +445,7 @@
           </li>
 
           <li>
-            <div data-bs-toggle="collapse" href="#faq2" class="collapsed question">Feugiat scelerisque varius morbi enim nunc faucibus a pellentesque? <i class="bi bi-chevron-down icon-show"></i><i class="bi bi-chevron-up icon-close"></i></div>
+            <div data-bs-toggle="collapse" href="#faq2" class="collapsed question">Apakah memasang jadwal event di LiveIn berbayar? <i class="bi bi-chevron-down icon-show"></i><i class="bi bi-chevron-up icon-close"></i></div>
             <div id="faq2" class="collapse" data-bs-parent=".faq-list">
               <p>
                 Dolor sit amet consectetur adipiscing elit pellentesque habitant morbi. Id interdum velit laoreet id donec ultrices. Fringilla phasellus faucibus scelerisque eleifend donec pretium. Est pellentesque elit ullamcorper dignissim. Mauris ultrices eros in cursus turpis massa tincidunt dui.
@@ -454,7 +454,7 @@
           </li>
 
           <li>
-            <div data-bs-toggle="collapse" href="#faq3" class="collapsed question">Dolor sit amet consectetur adipiscing elit pellentesque habitant morbi? <i class="bi bi-chevron-down icon-show"></i><i class="bi bi-chevron-up icon-close"></i></div>
+            <div data-bs-toggle="collapse" href="#faq3" class="collapsed question">Apakah bisa kita memasang jadwal event lebih dari satu? <i class="bi bi-chevron-down icon-show"></i><i class="bi bi-chevron-up icon-close"></i></div>
             <div id="faq3" class="collapse" data-bs-parent=".faq-list">
               <p>
                 Eleifend mi in nulla posuere sollicitudin aliquam ultrices sagittis orci. Faucibus pulvinar elementum integer enim. Sem nulla pharetra diam sit amet nisl suscipit. Rutrum tellus pellentesque eu tincidunt. Lectus urna duis convallis convallis tellus. Urna molestie at elementum eu facilisis sed odio morbi quis
@@ -463,7 +463,7 @@
           </li>
 
           <li>
-            <div data-bs-toggle="collapse" href="#faq4" class="collapsed question">Ac odio tempor orci dapibus. Aliquam eleifend mi in nulla? <i class="bi bi-chevron-down icon-show"></i><i class="bi bi-chevron-up icon-close"></i></div>
+            <div data-bs-toggle="collapse" href="#faq4" class="collapsed question">Bagaimana cara memeasang jadwal event di LiveIn? <i class="bi bi-chevron-down icon-show"></i><i class="bi bi-chevron-up icon-close"></i></div>
             <div id="faq4" class="collapse" data-bs-parent=".faq-list">
               <p>
                 Dolor sit amet consectetur adipiscing elit pellentesque habitant morbi. Id interdum velit laoreet id donec ultrices. Fringilla phasellus faucibus scelerisque eleifend donec pretium. Est pellentesque elit ullamcorper dignissim. Mauris ultrices eros in cursus turpis massa tincidunt dui.
@@ -507,16 +507,16 @@
 
           <div class="col-xl-2 col-lg-4 col-md-6" data-aos="zoom-in" data-aos-delay="100">
             <div class="member">
-              <img src="/assets/img/team/team-1.jpg" class="img-fluid" alt="">
+              <img src="/assets/img/team/Rifky.jpeg" class="img-fluid" alt="">
               <div class="member-info">
                 <div class="member-info-content">
-                  <h4>Walter White</h4>
+                  <h4>Rifky Roudana </h4>
                   <span>Chief Executive Officer</span>
                 </div>
                 <div class="social">
                   <a href=""><i class="bi bi-twitter"></i></a>
                   <a href=""><i class="bi bi-facebook"></i></a>
-                  <a href=""><i class="bi bi-instagram"></i></a>
+                  <a href="https://www.instagram.com/rifkyroudana_/"><i class="bi bi-instagram"></i></a>
                   <a href=""><i class="bi bi-linkedin"></i></a>
                 </div>
               </div>
@@ -525,16 +525,16 @@
 
           <div class="col-xl-2 col-lg-4 col-md-6" data-aos="zoom-in" data-aos-delay="200">
             <div class="member">
-              <img src="/assets/img/team/team-2.jpg" class="img-fluid" alt="">
+              <img src="/assets/img/team/Rian.png" class="img-fluid" alt="">
               <div class="member-info">
                 <div class="member-info-content">
-                  <h4>Sarah Jhonson</h4>
+                  <h4>Muhammad Syarif</h4>
                   <span>Product Manager</span>
                 </div>
                 <div class="social">
                   <a href=""><i class="bi bi-twitter"></i></a>
                   <a href=""><i class="bi bi-facebook"></i></a>
-                  <a href=""><i class="bi bi-instagram"></i></a>
+                  <a href="https://www.instagram.com/syarif.ryan/"><i class="bi bi-instagram"></i></a>
                   <a href=""><i class="bi bi-linkedin"></i></a>
                 </div>
               </div>
@@ -543,16 +543,16 @@
 
           <div class="col-xl-2 col-lg-4 col-md-6" data-aos="zoom-in" data-aos-delay="300">
             <div class="member">
-              <img src="/assets/img/team/team-3.jpg" class="img-fluid" alt="">
+              <img src="/assets/img/team/india.jpeg" class="img-fluid" alt="">
               <div class="member-info">
                 <div class="member-info-content">
-                  <h4>William Anderson</h4>
+                  <h4>Ozak Badrun</h4>
                   <span>CTO</span>
                 </div>
                 <div class="social">
                   <a href=""><i class="bi bi-twitter"></i></a>
                   <a href=""><i class="bi bi-facebook"></i></a>
-                  <a href=""><i class="bi bi-instagram"></i></a>
+                  <a href="https://www.instagram.com/abimanyu_ppa/"><i class="bi bi-instagram"></i></a>
                   <a href=""><i class="bi bi-linkedin"></i></a>
                 </div>
               </div>
@@ -561,16 +561,16 @@
 
           <div class="col-xl-2 col-lg-4 col-md-6" data-aos="zoom-in" data-aos-delay="400">
             <div class="member">
-              <img src="/assets/img/team/team-4.jpg" class="img-fluid" alt="">
+              <img src="/assets/img/team/anton.png" class="img-fluid" alt="">
               <div class="member-info">
                 <div class="member-info-content">
-                  <h4>Amanda Jepson</h4>
+                  <h4>Anton Setyo</h4>
                   <span>Accountant</span>
                 </div>
                 <div class="social">
                   <a href=""><i class="bi bi-twitter"></i></a>
                   <a href=""><i class="bi bi-facebook"></i></a>
-                  <a href=""><i class="bi bi-instagram"></i></a>
+                  <a href="https://www.instagram.com/antonsetyo46/"><i class="bi bi-instagram"></i></a>
                   <a href=""><i class="bi bi-linkedin"></i></a>
                 </div>
               </div>
@@ -579,16 +579,16 @@
 
           <div class="col-xl-2 col-lg-4 col-md-6" data-aos="zoom-in" data-aos-delay="300">
             <div class="member">
-              <img src="/assets/img/team/team-3.jpg" class="img-fluid" alt="">
+              <img src="/assets/img/team/mita.png" class="img-fluid" alt="">
               <div class="member-info">
                 <div class="member-info-content">
-                  <h4>William Anderson</h4>
+                  <h4>Mita Unziya</h4>
                   <span>CTO</span>
                 </div>
                 <div class="social">
                   <a href=""><i class="bi bi-twitter"></i></a>
                   <a href=""><i class="bi bi-facebook"></i></a>
-                  <a href=""><i class="bi bi-instagram"></i></a>
+                  <a href="https://www.instagram.com/mitaunziyah/"><i class="bi bi-instagram"></i></a>
                   <a href=""><i class="bi bi-linkedin"></i></a>
                 </div>
               </div>
@@ -724,11 +724,11 @@
           <div class="col-lg-4 col-md-6 footer-contact">
             <h3>Ninestars</h3>
             <p>
-              A108 Adam Street <br>
-              New York, NY 535022<br>
-              United States <br><br>
-              <strong>Phone:</strong> +1 5589 55488 55<br>
-              <strong>Email:</strong> info@example.com<br>
+              Jalan Mastrip No.164  <br>
+              Kecamatan Sumbersari<br>
+              Kabupaten Jember <br><br>
+              <strong>Phone:</strong> +6282234631549<br>
+              <strong>Email:</strong> LiveIn@gmail.com<br>
             </p>
           </div>
 

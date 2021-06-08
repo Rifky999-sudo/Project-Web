@@ -109,15 +109,7 @@
               <div class="swiper-wrapper align-items-center">
 
                 <div class="swiper-slide">
-                  <img src="/assets/img/portfolio/portfolio-1.jpg" alt="">
-                </div>
-
-                <div class="swiper-slide">
-                  <img src="/assets/img/portfolio/portfolio-2.jpg" alt="">
-                </div>
-
-                <div class="swiper-slide">
-                  <img src="/assets/img/portfolio/portfolio-3.jpg" alt="">
+                  <img src="/assets/img/portfolio/viva.jpeg" alt="">
                 </div>
 
               </div>
@@ -128,14 +120,14 @@
           <div class="col-lg-4">
             <div class="portfolio-info">
               <h3>Event information</h3>
-                <i class="bi bi-bookmark-fill">  Seminar</i><br>
-                <i class="bi bi-stopwatch">  01 Jun 2021 - 07 Jul 2021</i><br>
-                <i class="bi bi-geo-alt-fill">  Zoom</i>
+                <i class="bi bi-bookmark-fill">  Gaming</i><br>
+                <i class="bi bi-stopwatch">  24 - 27 Juni 2021</i><br>
+                <i class="bi bi-geo-alt-fill">  NIMO TV</i>
             </div>
             <div class="portfolio-description">
-              <h2>This is an example of event detail</h2>
+              <h2>Detail Event</h2>
               <p>
-                Autem ipsum nam porro corporis rerum. Quis eos dolorem eos itaque inventore commodi labore quia quia. Exercitationem repudiandae officiis neque suscipit non officia eaque itaque enim. Voluptatem officia accusantium nesciunt est omnis tempora consectetur dignissimos. Sequi nulla at esse enim cum deserunt eius.
+              Halo Gamers Indonesia!  Bagaimana nih kabarnya? Semoga selalu dalam keadaan baik ya. UKMO FAPERTA kembali mengadakan event yang pasti sudah kalian tunggu-tunggu terutama bagi para gamers  😎  UKMO FAPERTA Proudly Present "VIVA E-sport Competition" Prepare Your Best Team!!  📄 Registration time : sampai dengan 19 Juni 2021 📌 Technical meeting : 20 Juni 2021 🎮 Match Day :  PUBG : 22 - 23 Juni 2021 ML : 24 - 27 Juni 2021  Syarat pendaftaran: 1. Berlaku untuk umum 2. Team PUBG terdiri dari 5 orang, Team Mobile Legend terdiri dari 6 orang 3. Mengisi formulir pendaftaran 4. Membayar uang pendaftaran, PUBG 50.000,- sedangkan Mobile Legend 50.000,- 5. Follow IG ukmo_faperta  Tunggu apa lagi?? Segera daftarkan tim terbaik kalian dan menangkan hadiahnya!!   Link pendaftaran : http://bit.ly/REGISTRASI-MLBB-VEC-2021  CP PUBG: Agam (08560755615)  CP ML : Rizky (081252291049)
               </p>
             </div>
           </div>
@@ -157,11 +149,11 @@
           <div class="col-lg-3 col-md-6 footer-contact">
             <h3>Ninestars</h3>
             <p>
-              A108 Adam Street <br>
-              New York, NY 535022<br>
-              United States <br><br>
-              <strong>Phone:</strong> +1 5589 55488 55<br>
-              <strong>Email:</strong> info@example.com<br>
+            Jalan Mastrip No.164 <br>
+            Kecamatan Sumbersari<br>
+            Kabupaten Jember <br><br>
+              <strong>Phone:</strong> +6282234631549<br>
+              <strong>Email:</strong> LiveIn@gmail.com<br>
             </p>
           </div>
 
